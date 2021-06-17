@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋 I'm [Carlos Castro](https://carloscm.me/en/)
+> E-Commerce Technical SEO Consultant & Founder at [Wolfate](https://wolfate.com/en/)
 
-<!--
-**carloscastromx/carloscastromx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <p>
+Currently studying Computational Systems Engineering at <a href="https://uvm.mx/">UVM</a> intending to become a Front-End Developer soon. If you need a website for your business or need an SEO Consultant to help with a web migration, feel free to reach out! 🚀✌️
+</p>
+</div>
 
-Here are some ideas to get you started:
+### About me
+```javascript
+const carlos = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "seo"],
+    favouritefood: "tacos",
+    twitter: "@mxcarloscastro",
+    website: "https://carloscm.me/en/",
+    job: "E-commerce Technical SEO consultant",
+    studying: "Computational Systems Engineering"
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+
+[![Carlos Castro's Stats](https://github-readme-stats.vercel.app/api?username=carloscastromx&show_icons=true&count_private=true)](https://github.com/carloscastromx)
+
+### Latest Blog Posts
+
+- [🧑‍💻 Understanding and Improving your Core Web Vitals](https://carloscm.me/en/blog/core-web-vitals/)
+- [📈 E-commerce CMS Web Migration Case Study](https://carloscm.me/en/blog/ecommerce-cms-migration-case-study/)
+- [💡 10 Smart SEO Strategies for Small Businesses](https://carloscm.me/en/blog/seo-strategies-for-small-businesses/)
