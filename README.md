@@ -3,7 +3,7 @@
 
 <div>
  <p>
-Currently studying Computational Systems Engineering at <a href="https://uvm.mx/">UVM</a> intending to become a Front-End Developer soon. If you need a website for your business or need an SEO Consultant to help with a web migration, feel free to reach out! 🚀✌️
+I'm currently studying Computational Systems Engineering at <a href="https://uvm.mx/">UVM</a> intending to become a Front-End Developer soon. If you need a WordPress website or need an SEO Consultant to help with a web migration, feel free to reach out! 🚀✌️
 </p>
 </div>
 
