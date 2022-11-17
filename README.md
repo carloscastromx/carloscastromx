@@ -3,7 +3,7 @@
 
 <div>
  <p>
-I'm currently studying Computational Systems Engineering at <a href="https://uvm.mx/">UVM</a> intending to become a Front-End Developer soon. If you need a WordPress website or need an SEO Consultant to help with a web migration, feel free to reach out! 🚀✌️
+I'm currently studying Computational Systems Engineering at <a href="https://uvm.mx/">UVM</a> (Universidad del Valle de México). If you need a technical SEO Consultant to help with a web migration, feel free to reach out! 🚀✌️
 </p>
 </div>
 
@@ -15,7 +15,7 @@ const carlos = {
     favouritefood: "tacos",
     twitter: "@mxcarloscastro",
     website: "https://carloscm.me/en/",
-    job: "E-commerce Technical SEO consultant",
+    job: "E-commerce & Technical SEO consultant",
     studying: "Computational Systems Engineering"
 };
 ```
